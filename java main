@@ -1,6 +1,9 @@
 public class person{
-  public static void main
-
-
-
+  public static void main(String[] args){
+  System.out.println("waiting to boot up system...");
+  System.our.println("System Sucsessfully booted!");
+  
+  
+  
+  }
 }
